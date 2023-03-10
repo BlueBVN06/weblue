@@ -155,6 +155,53 @@ body {
 /*--------------------------------------------------------------
 3.0 TYPOGRAPHY
 --------------------------------------------------------------*/
+.btn-primary {
+
+    box-sizing: border-box;
+
+    color: rgb(255, 255, 255);
+
+    display: inline-block;
+
+    height: 34px;
+
+    text-align: center;
+
+   
+
+    text-size-adjust: 100%;
+
+    touch-action: manipulation;
+
+    vertical-align: middle;
+
+    white-space: nowrap;
+
+  
+
+    column-rule-color: rgb(255, 255, 255);
+
+    perspective-origin: 58.8438px 17px;
+
+    transform-origin: 58.8438px 17px;
+
+    user-select: none;
+
+    caret-color: rgb(255, 255, 255);
+
+    background: rgb(51, 122, 183) none repeat scroll 0% 0% / auto padding-box border-box;
+
+    border: 1px solid rgb(46, 109, 164);
+
+    border-radius: 4px 4px 4px 4px;
+
+   font: 15px / 21.4286px "minecraft_rusregular", Helvetica, Arial, sans-serif;
+
+    outline: rgb(255, 255, 255) none 0px;
+
+    padding: 6px 12px;
+
+}
 
 a {
   color: var(--ui-color-brand);
